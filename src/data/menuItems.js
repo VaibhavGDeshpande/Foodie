@@ -165,7 +165,7 @@ export const menuItems = [
             name: 'Mushroom Risotto',
             description: 'Creamy Arborio rice with wild mushrooms and parmesan',
             price: 16.99,
-            image: 'https://images.unsplash.com/photo-1576749872435-ff89b5bba58a?auto=format&fit=crop&q=80',
+            image: 'https://imgs.search.brave.com/g-AaSFbO93U73BILTcUo5ozQMVHRDIWWV1Wc2AQu32A/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMudGhlbW9kZXJu/cHJvcGVyLmNvbS9w/cm9kdWN0aW9uL3Bv/c3RzLzIwMTkvV2ls/ZC1NdXNocm9vbS1S/aXNvdHRvLTYuanBn/P3c9MTIwMCZxPTgy/JmF1dG89Zm9ybWF0/JmZpdD1jcm9wJmRt/PTE3MjY3MTIzMTAm/cz0xOGI2NTE1ZmYw/NGYyMTdkMWM5Yzgy/MjhkZDZmOTQ5OQ',
             category: 'mains'
           },
           {
@@ -181,7 +181,7 @@ export const menuItems = [
             name: 'Tiramisu',
             description: 'Classic Italian dessert with coffee-soaked ladyfingers',
             price: 7.99,
-            image: 'https://images.unsplash.com/photo-1571877227200-a0d98ea605da?auto=format&fit=crop&q=80',
+            image: 'https://imgs.search.brave.com/rkszT54k8gI3u29aggV5hPkIH8xzsm8K0NASWk8oBMo/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTQy/MjE2MzI2NS9waG90/by90aXJhbWlzdS5q/cGc_cz02MTJ4NjEy/Jnc9MCZrPTIwJmM9/YzV1eGhoNUJhOGdG/cmFXSTFlMDlFMGhX/LUxZYnNQX0RaYUlx/REw5VGhEST0',
             category: 'desserts'
           },
           {
@@ -197,7 +197,7 @@ export const menuItems = [
             name: 'Espresso',
             description: 'Rich and robust Italian coffee',
             price: 3.99,
-            image: 'https://images.unsplash.com/photo-1510591509098-f4b5d5e0a07f?auto=format&fit=crop&q=80',
+            image: 'https://imgs.search.brave.com/e9Mbq18XuZ47HelyWwLSECTKVOJEFX6wR_ngnDuYtKU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzAxLzI3LzU1Lzkz/LzM2MF9GXzEyNzU1/OTM3MF9mcGhYSmo5/SEQwYWJQbzMxWmtI/UFFLZXJsTlFZb2lG/Sy5qcGc',
             category: 'drinks'
           },
           {
@@ -205,7 +205,7 @@ export const menuItems = [
             name: 'Caprese Salad',
             description: 'Fresh mozzarella, tomatoes, and basil with balsamic glaze',
             price: 10.99,
-            image: 'https://images.unsplash.com/photo-1608686207856-001b95cf60ca?auto=format&fit=crop&q=80',
+            image: 'https://imgs.search.brave.com/peYUybVzhVrafKcxhN6nqya6Bjai4iTrVmwPaexfRHI/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy9l/L2VhL0NhcHJlc2Vf/c2FsYWRfc2tld2Vy/X2FwcGV0aXplcnMu/anBn',
             category: 'starters'
           },
           {
@@ -213,7 +213,7 @@ export const menuItems = [
             name: 'Vegetable Pad Thai',
             description: 'Thai-style rice noodles with vegetables and peanuts',
             price: 15.99,
-            image: 'https://images.unsplash.com/photo-1568096268584-49cb019385ee?auto=format&fit=crop&q=80',
+            image: 'https://imgs.search.brave.com/EBU5QQvjrd-fBC6AWPAhrTf8VbIuAldhGBSfrdOzC2w/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9taW5p/c3RyeW9mY3Vycnku/Y29tL3dwLWNvbnRl/bnQvdXBsb2Fkcy8y/MDIxLzAxL1BhZC1U/aGFpXy0xLTg1MHgx/Mjc1LmpwZw',
             category: 'mains'
           },
           {
@@ -237,7 +237,7 @@ export const menuItems = [
             name: 'Falafel Wrap',
             description: 'Chickpea fritters with tahini sauce in warm pita',
             price: 11.99,
-            image: 'https://images.unsplash.com/photo-1613360734461-f8eb9e6e1a91?auto=format&fit=crop&q=80',
+            image: 'https://imgs.search.brave.com/7se7QyhInlt4TKe5MaNkFINt5JVQKc4lHrjFYm149X4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/Y2hlZnRhcmlxLmNv/bS93cC1jb250ZW50/L3VwbG9hZHMvMjAy/MC8wNC9mYWxhZmVs/LXdyYXAtNS5qcGc',
             category: 'mains'
           },
           {
@@ -261,7 +261,7 @@ export const menuItems = [
             name: 'Mango Smoothie',
             description: 'Tropical fruit smoothie with yogurt',
             price: 5.99,
-            image: 'https://images.unsplash.com/photo-1623065422902-3f026edd5053?auto=format&fit=crop&q=80',
+            image: 'https://imgs.search.brave.com/vPf7IkX9yYM-Nbw7nYNpVNxveW9t5r2_JVrHB7yVf0U/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzAxLzgzLzA0LzU4/LzM2MF9GXzE4MzA0/NTg1MV9CQlpXcnRy/VWRNT1d4MXBBcE5R/YUhiZVpnYmpJTHJw/TS5qcGc',
             category: 'drinks'
           }
   
